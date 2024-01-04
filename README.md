@@ -2,6 +2,8 @@
 
 Projektabgabe: Digitale Bildverarbeitung
 
+Name Neuronales Netz: Bambi
+
 Name: Valentin Berisha
 
 Matrikelnummer: 2014335
